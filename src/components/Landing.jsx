@@ -1,5 +1,5 @@
 import React from 'react';
-import UndrawBooks from '../assets/Undraw_Books/Nav'
+import UndrawBooks from '../assets/Undraw_Books.svg'
 
 const Landing = () => {
     return (
