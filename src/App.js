@@ -1,18 +1,22 @@
 import './index.css'
-import Featured from './components/Featured';
-import Highlights from './components/Highlights';
-import Landing from './components/Landing'
+import Footer from './components/Footer';
 import Nav from './components/Nav'
+import Home from "./pages/Home"
+
+import { BrowserRouter as Router, Route } from '/react-router-dom'
 
 
 function App() {
   return (
+  
+  <Router>
     <div className="App">
+    <Route />
      <Nav />
-     <Landing />
-     <Highlights />
-     <Featured />
+      <Home />
+     <Footer />
     </div>
+    </Router>
   );
 }
 
