@@ -1,4 +1,5 @@
 import './index.css'
+import Featured from './components/Featured';
 import Highlights from './components/Highlights';
 import Landing from './components/Landing'
 import Nav from './components/Nav'
@@ -10,6 +11,7 @@ function App() {
      <Nav />
      <Landing />
      <Highlights />
+     <Featured />
     </div>
   );
 }
