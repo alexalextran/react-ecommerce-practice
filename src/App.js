@@ -2,8 +2,10 @@ import './index.css'
 import Footer from './components/Footer';
 import Nav from './components/Nav'
 import Home from "./pages/Home"
+import Books from "./pages/Books"
+import {books } from "./data"
 
-import { BrowserRouter as Router, Route } from '/react-router-dom'
+import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 
 function App() {
@@ -11,9 +13,10 @@ function App() {
   
   <Router>
     <div className="App">
-    <Route />
+   
      <Nav />
-      <Home />
+     <Route path="/" exact component={Home}/>
+    <Route path="/books" render={() => <Books books={books} />}/>
      <Footer />
     </div>
     </Router>
