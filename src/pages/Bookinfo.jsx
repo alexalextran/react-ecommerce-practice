@@ -20,7 +20,7 @@ const Bookinfo = ({books}) => {
         </div>
             <div className='book__selected'>
                 <figure>
-                    
+                    <img className='book__selected--ig'/>
                 </figure>
             </div>
         </div>
