@@ -2,6 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import HighLight from "./ui/Highlight"
 
+
 const Highlights = () => {
     return (
        <section id='highlights'>
