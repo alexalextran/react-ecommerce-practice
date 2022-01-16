@@ -7,6 +7,7 @@ import {books } from "./data"
 import BookInfo from "./pages/Bookinfo"
 
 import { BrowserRouter as Router, Route } from 'react-router-dom'
+import Cart from './pages/Cart';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
      <Route path="/" exact component={Home}/>
     <Route path="/books" exact render={() => <Books books={books} />}/>\
     <Route path="/books/:id" render={() => <BookInfo books={books} />} />
+    <Route path="/cart" render={() => <Cart books={books} />} />
      <Footer />
     </div>
     </Router>

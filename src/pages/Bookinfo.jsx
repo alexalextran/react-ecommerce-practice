@@ -28,7 +28,7 @@ const Bookinfo = ({ books }) => {
                 <img
                   alt=""
                   src={book.url}
-                  className="book__selected--ig"
+                  className="book__selected--img"
                 />
               </figure>
             
