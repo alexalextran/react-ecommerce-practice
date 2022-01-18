@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alexalextran/react-ecommerce-practice/static/css/main.46724a4d.css",
-    "main.js": "/alexalextran/react-ecommerce-practice/static/js/main.346d6046.js",
-    "static/js/787.49edc0d9.chunk.js": "/alexalextran/react-ecommerce-practice/static/js/787.49edc0d9.chunk.js",
-    "static/media/Undraw_Books.svg": "/alexalextran/react-ecommerce-practice/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
-    "static/media/Library.svg": "/alexalextran/react-ecommerce-practice/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
-    "static/media/empty_cart.svg": "/alexalextran/react-ecommerce-practice/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
-    "index.html": "/alexalextran/react-ecommerce-practice/index.html",
-    "static/media/wave.svg": "/alexalextran/react-ecommerce-practice/static/media/wave.42edd5970e3619090a0f.svg",
-    "main.46724a4d.css.map": "/alexalextran/react-ecommerce-practice/static/css/main.46724a4d.css.map",
-    "main.346d6046.js.map": "/alexalextran/react-ecommerce-practice/static/js/main.346d6046.js.map",
-    "787.49edc0d9.chunk.js.map": "/alexalextran/react-ecommerce-practice/static/js/787.49edc0d9.chunk.js.map"
+    "main.css": "/react-ecommerce-practice/static/css/main.f1152656.css",
+    "main.js": "/react-ecommerce-practice/static/js/main.9594d2e1.js",
+    "static/js/787.49edc0d9.chunk.js": "/react-ecommerce-practice/static/js/787.49edc0d9.chunk.js",
+    "static/media/Undraw_Books.svg": "/react-ecommerce-practice/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
+    "static/media/Library.svg": "/react-ecommerce-practice/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
+    "static/media/empty_cart.svg": "/react-ecommerce-practice/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
+    "index.html": "/react-ecommerce-practice/index.html",
+    "static/media/wave.svg": "/react-ecommerce-practice/static/media/wave.42edd5970e3619090a0f.svg",
+    "main.f1152656.css.map": "/react-ecommerce-practice/static/css/main.f1152656.css.map",
+    "main.9594d2e1.js.map": "/react-ecommerce-practice/static/js/main.9594d2e1.js.map",
+    "787.49edc0d9.chunk.js.map": "/react-ecommerce-practice/static/js/787.49edc0d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46724a4d.css",
-    "static/js/main.346d6046.js"
+    "static/css/main.f1152656.css",
+    "static/js/main.9594d2e1.js"
   ]
 }
