@@ -51,7 +51,7 @@ function App() {
     <Router>
       <div className="App">
         <Nav numberOfItems={numberOfItems()}/>
-        <Route path="/" exact component={Home} />
+        <Route path={process.env.PUBLIC_URL + '/'} exact component={Home} />
         <Route path="/books" exact render={() => <Books books={books} />} />\
         <Route
           path="/books/:id"
