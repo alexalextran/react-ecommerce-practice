@@ -51,7 +51,7 @@ function App() {
     <Router>
       <div className="App">
         <Nav numberOfItems={numberOfItems()}/>
-        <Route path="/" exact render={() => <Home books={books} />} />
+        <Route path="/react-ecommerce-practice" exact render={() => <Home books={books} />} />
         <Route path="/books" exact render={() => <Books books={books} />} />
         <Route
           path="/books/:id"
