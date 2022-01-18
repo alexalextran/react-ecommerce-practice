@@ -21,7 +21,7 @@ const Nav = ({numberOfItems}) => {
           </Link>
           <ul className="nav__links">
             <li className="nav__list">
-              <Link to="/react-ecommerce-practice" className="nav__link">
+              <Link to="/react-ecommerce-practice/" className="nav__link">
                 Home
               </Link>
             </li>
